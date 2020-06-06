@@ -181,7 +181,7 @@ In independent styles, ``cs:info`` has the following child elements:
 ``cs:id``
     Must appear once, and contain a URI to establish the identity
     of the style. For publicly available styles, this URI must be stable and 
-    unique. One may use a `urn:uuid <https://tools.ietf.org/html/rfc4122>` to 
+    unique. One may use a `urn:uuid <https://tools.ietf.org/html/rfc4122>`_ to 
     ensure stability and uniqueness.
 
 ``cs:issn``/``cs:eissn``/``cs:issnl`` (optional)
